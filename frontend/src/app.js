@@ -1,4 +1,4 @@
- import { renderUsers, findUserById } from './scripts/dom/render.js';
+import { renderUsers, findUserById } from './scripts/dom/render.js';
 import { createUser } from './scripts/api/create.js';
 import { deleteUser } from './scripts/api/delete.js';
 import { updateUser, patchUser } from './scripts/api/update.js';

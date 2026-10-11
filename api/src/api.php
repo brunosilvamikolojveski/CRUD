@@ -12,4 +12,3 @@ match ($method) {
     'DELETE' => handleDelete(),
     default => handleMethodNotAllowed(),
 };
-
